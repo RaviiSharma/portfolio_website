@@ -1,0 +1,65 @@
+export const projects = [
+  {
+    title: 'E-Commerce',
+    description:"Created an eCommerce website’s backend part with multiple APIs based on products, users' carts, and orders. Here use JWT authentication for protected APIs and also use AWS S3. Like Amazon and Flipkart etc.",
+    image: '/images/1.png',
+    tags: ['MongoDB', 'Express', 'Node', 'JavaScript'],
+    source: 'https://github.com/RaviiSharma/ECommerce/tree/project5-ecommerce',
+    visit: 'https://github.com/RaviiSharma/ECommerce/tree/project5-ecommerce',
+    id: 0,
+  },
+  {
+    title: 'Tiny URLS Website',
+    description: "Using JavaScript, Node.js, Express & MongoDB to build a Application that shortens the long URL using ShortId. apply the caching concept with help of the Redis database. Like Bitly and TinyURL Sites.",
+      image: '/images/2.jpg',
+      tags: ['MongoDB', 'Express', 'Node', 'JavaScript'],
+    source: 'https://github.com/RaviiSharma/urlShortner/tree/project/urlShortnerGroup41',
+    visit: 'https://github.com/RaviiSharma/urlShortner/tree/project/urlShortnerGroup41',
+    id: 1,
+  },
+  {
+    title: 'Book Management',
+    description: "Created a Book Management backend like Goodreads.com with 10 multiple APIs like user registration, Login, Book publishing, Book review, and rating Like library management, etc..",
+      image: '/images/3.webp',
+      tags: ['MongoDB', 'Express', 'Node', 'JavaScript'],
+    source: 'https://github.com/RaviiSharma/Project-Books-Managament',
+    visit: 'https://github.com/RaviiSharma/Project-Books-Managament',
+    id: 2,
+  },
+  {
+    title: 'Blogging Website',
+    description: "Create a blog website where users can write some blogs and other users can see this blog. Here use JWT authentication for protected APIs. Like One Magazine and URBANBEARDSMAN.",
+    image: '/images/4.png',
+    tags: ['MongoDB', 'Express', 'Node', 'JavaScript'],
+    source: 'https://github.com/RaviiSharma/project-Blogging-Site/tree/blogging-site-project',
+    visit: 'https://github.com/RaviiSharma/project-Blogging-Site/tree/blogging-site-project',
+    id: 3,
+  },
+  {
+    title: 'Grocery Store',
+    description: "Using JavaScript, Node.js, Express & MongoDB to Create a Grocery Website backend with multiple APIs for products. Like BigBasket, Blinkit etc.",
+    image: '/images/5.webp',
+    tags: ['MongoDB', 'Express', 'Node', 'JavaScript'],
+    source: 'https://github.com/RaviiSharma/Grocery-Store-BackEnd',
+    visit: 'https://github.com/RaviiSharma/Grocery-Store-BackEnd',
+    id: 4,
+  },
+  {
+    title: 'To Do App',
+    description: "Using JavaScript, Reactjs, Html5 & Css3 to Create a To-do app that allow users to Create tasks Assign tasks to other users Mark tasks as complete Set deadlines for tasks Receive notifications when tasks are due.",
+    image: '/images/6.webp',
+    tags: ['ReactJs', 'JavaScript', 'Html5', 'Css3'],
+    source: 'https://ravii-todo-app.netlify.app/',
+    visit: 'https://ravii-todo-app.netlify.app/',
+    id: 5,
+  },
+ 
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2021, text: 'Graduated as a mechanical engineer', },
+  { year: 2022, text: 'Joined as backend developer trainee at functionUp', },
+  { year: 2023, text: 'Shared my projects with the world', },
+ // { year: 2021, text: 'Started my own platform', },
+];
