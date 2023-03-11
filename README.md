@@ -8,6 +8,7 @@ This is a code repository for the portfolio for resume and business card.
 
 Setup:
 - run ```npm i && npm start```
+- npm run dev `` to run localhost:3000
 
 
 ## https://github.com/RaviiSharma
