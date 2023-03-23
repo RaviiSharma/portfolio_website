@@ -11,4 +11,4 @@ Setup:
 - run ```npm run dev ``` to run localhost:3000
 
 
-## https://github.com/RaviiSharma
+## https://ravikumarsharma-portfolio.netlify.app/
