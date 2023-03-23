@@ -13,14 +13,13 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        Hello, my name is Ravi Kumar Sharma. graduated from the Punjab Swami Vivekanand Institute of
-Engineering and Technology in 2021. with mechanical engineering.
-After graduation, I got a position as Inspection Engineer at mark exhaust system ltd.
-While also pursuing a certification in the Skill-India challenge and Aryabhatta Ganit challenge.
-Then I pursued a career in the IT field as a trainee at Function-Up Where I learned a great
-deal with backend development through assisting on the backend like NodeJs, MongoDB, Express,
-ReactJs, Redis, AWS S3, and Cache.
-Thank You
+        Hello, my name is Ravi Kumar Sharma. I graduated from the Punjab Swami Vivekanand Institute of
+  Engineering and Technology in 2021 with a degree in Mechanical Engineering.
+  After graduation, I started working as an Inspection Engineer at Mark Exhaust System Ltd.
+  While working there, I also pursued certifications in the Skill-India Challenge and Aryabhatta Ganit Challenge.
+  Later, I pursued a career in the IT field as a trainee at Function-Up where I gained experience in backend
+  development by assisting on projects involving NodeJs, MongoDB, Express, ReactJs, Redis, AWS S3, and Cache. 
+  Thank you
         </SectionText>
         <Button onClick={()=>window.location = "https://www.linkedin.com/in/ravi-kumar-sharma-/"}>Know More</Button>
       </LeftSection>
