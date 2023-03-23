@@ -46,13 +46,14 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      A Strong engineering professional who graduated Bachelor of Technology (BTech) focused in Information Technology.
-from Swami Vivekananda Institute of Engineering and Technology, Chandigarh. I am passionate about BackEnd Development.
+      As an engineering professional, I have graduated with a Bachelor of Technology (BTech) degree,
+focusing on Information Technology from Swami Vivekananda Institute of Engineering and Technology in
 
-Have experience working with Html, CSS, JavaScript, Nodejs, MongoDB, Mongoose, Expressjs, ReactJs, Redis, Aws, Aws S3, Git, Github, Postman, Data Structure and Algorithms.
-Currently learning new web technologies to develop cutting-edge Backend solutions. Also Passionate about MERN Stack development.
+Chandigarh. My passion lies in BackEnd Development, and I have gained experience working with various technologies such as HTML, CSS, JavaScript, Node.js, MongoDB, Mongoose,
+Express.js, React.js, Redis, AWS, AWS S3, Git, Github, Postman, Data Structures, and Algorithms.
+I am constantly learning new web technologies to develop cutting-edge BackEnd solutions and am particularly interested in MERN Stack development. 
 
-When I am not working I usually spend my time playing  with my pet dog 'Richie'
+When I am not working, I love to spend my time playing with my pet dog, Richie.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

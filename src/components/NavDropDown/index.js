@@ -30,7 +30,7 @@ const NavDropDown = (props) => (
       </DropDownIcon>
       <DropDownTextContainer>
         <DropDownItemTitle>Address</DropDownItemTitle>
-        <DropDownItemDesc>1405, Angelus Dr, Florissant. Mo</DropDownItemDesc>
+        <DropDownItemDesc>Dhanbad, Jharkhand</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
   </DropDownContainer>
